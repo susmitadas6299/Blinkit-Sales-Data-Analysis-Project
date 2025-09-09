@@ -72,7 +72,14 @@ The analysis is designed to identify key insights and opportunities for optimiza
 ## 🛠️ Tools & Technologies Used
 - **Power BI** → Interactive dashboard & data visualization  
 - **SQL** → Data extraction & KPI calculations  
-- **Python (Pandas, Matplotlib, Seaborn)** → Data cleaning, EDA & charts  
+- **Python (Pandas, Matplotlib, Seaborn)** → Data cleaning, EDA & charts
+
+
+---
+
+## 📂 Dataset Source
+The dataset used in this project was provided by **@datatutorials1** on YouTube for educational purposes.  
+All rights remain with the original creator/uploader.
 
 ---
 
