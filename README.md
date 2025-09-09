@@ -1,6 +1,10 @@
 # Blinkit-Sales-Data-Analysis-Project
 A full Blinkit sales analysis workflow with Excel, SQL, Python, and Power BI, from cleaning to visualization.
 
+# Project Overview
+This project examines Blinkit’s sales and customer data to understand business performance, reveal trends, and provide insights that can help improve operations and decision-making.
+
+
 ## 📌 Business Requirement
 The objective of this project is to conduct a comprehensive analysis of **Blinkit’s sales performance, customer satisfaction, and inventory distribution**.  
 The analysis is designed to identify key insights and opportunities for optimization using **Power BI, SQL, and Python** through various KPIs and visualizations.
